@@ -130,7 +130,7 @@ body {
 /*---------- mobile design ---------*/
 @media  (max-width: 400px) {
 body {
-    background-image: url("https://github.com/Saf-Awi/order-summary-component/blob/d3c2be8d0aa359b25cef9a9340ce401a4fc9116b/assets/pattern-background-mobile.svg");
+    background-image: url(assets/pattern-background-mobile.svg);
 }
 }
 
